@@ -14,8 +14,14 @@ Currently working at **CareAbout**, where I develop and ship web applications th
 
 ### 🛠 Highlight Projects
 - **Lynx Project** → AI chatbot with Salesforce + S3, using AWS Lambda → Batch/Fargate for long-running workloads.  
-- **Multi-Step React Form** → Real-time validation, dynamic query parameters, postcode eligibility checks with a MariaDB backend.  
+- **Multi-Step React Form** → Real-time validation, dynamic query parameters, postcode eligibility checks.  
 - **Headless WordPress Transition** → Migrating monolithic WordPress into a scalable headless architecture with API-first design.  
+
+### 🏡 Home Lab & Passion Projects
+Outside of work, I experiment with infrastructure, networking, and operating systems to sharpen my skills:  
+- Built and maintain a **home lab** with **OPNSense VLAN routing**, **TP-Link Omada network management**, and **HomeAssistant automation** on a Raspberry Pi.  
+- Compiled my own **Linux distribution from scratch** for a deeper understanding of operating systems.  
+- Setup **LineageOS** and root Android on personal devices, extending hardware life and improving privacy.  
 
 ### 📈 What I’m Exploring
 - AI-powered assistants for business intelligence  
